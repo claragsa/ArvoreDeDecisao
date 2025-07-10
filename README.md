@@ -1,4 +1,4 @@
-# ÁrvoreDeDecisão
+# Diagnóstico Cancêr de Mama - Árvore de Decisão para Classificação
 O projeto foi desenvolvido com o objetivo de entender melhor como funciona e para que serve o modelo de Machine Learning de árvore de decisão. 
 
 ### Dataset:
@@ -29,3 +29,4 @@ Assim, foram obtidos como resultados:
 3. Precisão: 93%
 
 Desse modo, é entendido que esse modelo tenha uma baixa variancia e um baixo viés, chegando ao trade off ideal, onde a acurácia e a precisão apresentam um alto nível, deixando uma margem pequena para erros sistemáticos.
+Além disso, ter um recall alto é muito importante no contexto médico, visto que é essencial que se tenha uma preocupação maior em identificar casos de tumores malignos, já que falsos positivos (malignos classificados como benignos) são muito perigosos.
