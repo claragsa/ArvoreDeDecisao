@@ -26,6 +26,6 @@ Para fazer a avaliação do modelo de classificação, foram utilizadas as métr
 Assim, foram obtidos como resultados:
 1. Acurácia: 95%
 2. Recall: 93%
-3. Precisão de 93%
+3. Precisão: 93%
 
 Desse modo, é entendido que esse modelo tenha uma baixa variancia e um baixo viés, chegando ao trade off ideal, onde a acurácia e a precisão apresentam um alto nível, deixando uma margem pequena para erros sistemáticos.
